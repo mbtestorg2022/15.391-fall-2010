@@ -22,9 +22,77 @@ _Written work products:_ internal and external agendas due pre-meeting; summary 
 
 **Intra-team evaluation.** A very important piece of the team exercises. There will be an intra-team evaluation at the end of the course (you get to say who did the work).
 
-| ASSN # | SIMULATIONS AND TEAM EXERCISES | FILES |
-| --- | --- | --- |
-| 1 | Find a lawyer | ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn1)) |
-| 2 | Lawyer strategy round |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2)) {{< br >}}{{< br >}} MIT/FIT fact pattern ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2_facts)) {{< br >}}{{< br >}} Term sheet ([PDF]({{< baseurl >}}/resources/mit15_391f10_term_sheet)) {{< br >}}{{< br >}}  |
-| 3 | VC negotiation round | ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn3)) |
-| &nbsp; | Team evaluation | ([PDF]({{< baseurl >}}/resources/mit15_391f10_eval))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+SIMULATIONS AND TEAM EXERCISES
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Find a lawyer
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_391f10_assn1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lawyer strategy round
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2))
+
+MIT/FIT fact pattern ([PDF]({{< baseurl >}}/resources/mit15_391f10_assn2_facts))
+
+Term sheet ([PDF]({{< baseurl >}}/resources/mit15_391f10_term_sheet))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+VC negotiation round
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_391f10_assn3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Team evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_391f10_eval))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

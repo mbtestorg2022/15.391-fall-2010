@@ -43,13 +43,78 @@ This will account for two-thirds of the grade. Grading will primarily reward the
 
 **Very Important:** There will also be an intra-team evaluation at the end of the course (you get to say who did the work).
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance | 33% |
-| Negotiation grade | 67% |
-|  {{< br >}}{{< br >}} _Find a Lawyer_ {{< br >}}{{< br >}}  | _5%_ |
-|  {{< br >}}{{< br >}} _Lawyer strategy round_ {{< br >}}{{< br >}}  | _25%_ |
-|  {{< br >}}{{< br >}} _VC negotiation round_ {{< br >}}{{< br >}}  | _70%_ 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Negotiation grade
+{{< tdclose >}}
+{{< tdopen >}}
+67%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Find a Lawyer_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_5%_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Lawyer strategy round_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_25%_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_VC negotiation round_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_70%_
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other Important Points
 ----------------------
