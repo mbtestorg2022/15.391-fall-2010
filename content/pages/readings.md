@@ -128,9 +128,9 @@ Guest: David Brown, Partner, Choate Hall & Stewart
 
 [Search Funds](http://www.gsb.stanford.edu/ces/resources/search_funds.html). Center for Entrepreneurial Studies, Stanford Graduate School of Business.
 
-Harrington, Sean, and H. Irving Grousbeck. "Search Funds—2007: Observations." Stanford Graduate School of Business Case E-282, January 15, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.gsb.stanford.edu/ces/resources/search_funds.html))
+Harrington, Sean, and H. Irving Grousbeck. "Search Funds—2007: Observations." Stanford Graduate School of Business Case E-282, January 15, 2008. ([PDF](http://www.gsb.stanford.edu/ces/resources/search_funds.html))
 
-Rozenrot, Elnor, and Fred Wainwright. "Note on Search Funds." Tuck School of Business at Dartmouth Case #5-0034, October 18, 2005. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://docplayer.net/10269605-Note-on-search-funds.html))
+Rozenrot, Elnor, and Fred Wainwright. "Note on Search Funds." Tuck School of Business at Dartmouth Case #5-0034, October 18, 2005. ([PDF](https://docplayer.net/10269605-Note-on-search-funds.html))
 
 
 {{< tdclose >}}
